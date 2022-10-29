@@ -1,0 +1,57 @@
+.light-mode{
+  --root-background-color: white;
+  --root-color: #212121;
+  --primary-color: dodgerblue;
+  --toast-background-color: rgba(80,80,80,1);
+  --toast-color: white;
+  --login-container-background-color: #f6f8fa;
+  --phone-layout-background-color: white;
+  --login-container-border: 1px solid rgba(55,55,55,0.1);
+  --phone-layout-border: 1.5px solid rgba(55,55,55,0.2);
+  --box-shadow-color: rgba(120,120,120,.5);
+  --left-navigation-menu-active-background-color: rgba(240,240,240,1);
+  --left-navigation-menu-item-hover-background-color: rgba(240,240,240,.5);
+  --header-border-bottom: rgba(235,235,235,1);
+  --path-border: rgba(245,245,245,1);
+  --file-border: rgba(245,245,245,0);
+  --path-item-color: dodgerblue;
+  --create-folder-dialogue-border-color: rgba(235,235,235,1);
+  --file-name-background-color: rgba(255,255,255,.5);
+  --options-menu-background-color: var(--root-background-color);
+  --hover-bg: rgba(245,245,245);
+}
+.dark-mode{
+  --root-background-color: #212121;
+  --root-color: white;
+  --primary-color: dodgerblue;
+  --toast-background-color: rgba(240,240,240,1);
+  --toast-color: black;
+  --login-container-background-color: #f6f8fa;
+  --phone-layout-background-color: var(--root-background-color);
+  --login-container-border: 1px solid rgba(55,55,55,0.1);
+  --phone-layout-border: 1.5px solid rgba(255,255,255,0.2);
+  --box-shadow-color: rgba(200,200,200,.5);
+  --left-navigation-menu-active-background-color: rgba(80,80,80,1);
+  --left-navigation-menu-item-hover-background-color: rgba(80,80,80,.5);
+  --header-border-bottom: rgba(80,80,80,1);
+  --path-border: #8b8b8b;
+  --file-border: rgba(120,120,120,.1);
+  --path-item-color: white;
+  --create-folder-dialogue-border-color: rgba(80,80,80,1);
+  --file-name-background-color: #212121;
+  --options-menu-background-color: var(--root-background-color);
+  --hover-bg: rgba(80,80,80);
+}
+body {
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+		'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
+		'Helvetica Neue', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+		monospace;
+}

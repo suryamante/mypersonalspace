@@ -1,0 +1,90 @@
+.file.file{
+  background-image: url('./images/file.svg');
+}
+.file.folder{
+  background-image: url('./images/folder.svg');
+}
+.file.video{
+  background-image: url('./images/video-black.svg');
+}
+.file.mp3{
+  background-image: url('./images/mp3.png');
+}
+.file.wav{
+  background-image: url('./images/wav.png');
+}
+.file.mp4{
+  background-image: url('./images/mp4.png');
+}
+.file.pdf{
+  background-image: url('./images/pdf.png');
+}
+.file.jpg{
+  background-image: url('./images/jpg.png');
+}
+.file.png{
+  background-image: url('./images/png.png');
+}
+.file.php{
+  background-image: url('./images/php.png');
+}
+.file.ppt, .file.pptx{
+  background-image: url('./images/ppt.png');
+}
+.file.js{
+  background-image: url('./images/js.png');
+}
+.file.svg{
+  background-image: url('./images/svg.png');
+}
+.file.txt{
+  background-image: url('./images/txt.png');
+}
+.file.zip{
+  background-image: url('./images/zip.png');
+}
+.file.7z{
+  background-image: url('./images/_7z.png');
+}
+.file.tar{
+  background-image: url('./images/tar.png');
+}
+.file.jar{
+  background-image: url('./images/jar.png');
+}
+.file.rar{
+  background-image: url('./images/rar.png');
+}
+.file.apk{
+  background-image: url('./images/apk.png');
+}
+.file.css{
+  background-image: url('./images/css.png');
+}
+.file.csv{
+  background-image: url('./images/csv.png');
+}
+.file.doc{
+  background-image: url('./images/doc.png');
+}
+.file.docx{
+  background-image: url('./images/docx.png');
+}
+.file.exe{
+  background-image: url('./images/exe.png');
+}
+.file.gif{
+  background-image: url('./images/gif.png');
+}
+.file.html{
+  background-image: url('./images/html.png');
+}
+.file.ico{
+  background-image: url('./images/ico.png');
+}
+.file.jar{
+  background-image: url('./images/jar.png');
+}
+.file.audio{
+  background-image: url('./images/mp3.png');
+}
